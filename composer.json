@@ -1,13 +1,12 @@
 {
-  "name": "povs/lister-bundle",
+  "name": "marnr365/lister-bundle",
   "type": "symfony-bundle",
   "description": "Lister bundle for Symfony to simplify common data listing functions (pagination, sorting, filtering, exporting, etc.)",
   "keywords": ["lister", "list", "symfony", "bundle", "doctrine"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Povilas Margaitis",
-      "homepage": "https://github.com/povs"
+      "name": "Povilas Margaitis"
     }
   ],
 
